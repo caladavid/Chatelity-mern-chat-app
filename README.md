@@ -62,6 +62,10 @@ Did you stumble upon a bug or encounter an issue while using Astralea? Your feed
 
 We'd love to hear from you! Whether you have a question, feedback, or just want to say hello, don't hesitate to reach out. Feel free to [contact me](https://github.com/caladavid) and let's connect!  
 
+## Acknowledgments
+
+This project, Chatelity, was created by following a tutorial from [burakorkmez](https://github.com/burakorkmez). Special thanks to the original creator for providing a comprehensive guide on building real-time chat applications.
+
 ## Support & Contributions 🤲
 
 #### [Star this project](https://github.com/caladavid/Chatelity-mern-chat-app) ⭐️
