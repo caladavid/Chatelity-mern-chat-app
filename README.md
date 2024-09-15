@@ -40,6 +40,19 @@ Get ready to experience smooth, real-time messaging and a highly interactive use
 ![image](https://github.com/user-attachments/assets/12c1f6f7-96e1-47a5-ad8f-307773bb1df9)
 ![image](https://github.com/user-attachments/assets/900b58b5-3d7b-409f-97b1-633dea06c9f6)
 
+## Usage
+
+**Test users**
+
+| Username | Password  |
+| -------- | --------- |
+| test | 123456 |
+
+
+### Clone the repository:
+```
+git clone https://github.com/caladavid/Chatelity-mern-chat-app.git
+```
 
 # Experiencing an Issue? ⚠️
 
