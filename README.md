@@ -23,7 +23,7 @@ Get ready to experience smooth, real-time messaging and a highly interactive use
 - Utilizes JWT for robust user login and access control.
 - Real-time communication is enabled through Socket.io, ensuring fast and smooth message delivery.
 - Displays the current online status of users using a combination of Socket.io and React Context.
-- Built with TailwindCSS and styled with Daisy UI for a sleek, mobile-friendly interface.
+- Built with TailwindCSS for a sleek, mobile-friendly interface.
 
 ## Technologies 
 
